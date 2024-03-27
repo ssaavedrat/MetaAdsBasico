@@ -372,10 +372,64 @@ Promocionar un negocio físico para llevar tráfico a él. En este caso, es muy 
 
 ### Creación de Campaña
 
+Se crea desde el administrador de anuncios. Se selecciona el objetivo de la campaña y se completa la información solicitada.
+
+E.g. `Tráfico - E-Commerce - Agosto 2024`
+
+Es importante entender que la campaña se subastará con otras campañas, por lo que es importante tener una buena segmentación y un buen contenido.
+
+Para la campaña se puede definir un límite de gasto diario o un límite de gasto total.
+
+Optimización de puja: menor costo, límite de costo y límite de puja. Recomendado: menor de costo.
+
+Se pueden programar los anuncios para que se muestren en ciertos días y horas.
+
 ## Creación de Grupos de Anuncios
+
+### Presupuesto, Calendario y Público Objetivo
+
+En la creación de grupos de anuncios se debe definir el presupuesto, el calendario y el público objetivo.
+
+Se puede modificar la fecha de inicio y término (se recomienda mensual). Opcionalmente, se puede programar la campaña para que se muestre en ciertos días y horas. Además, se puede definir un presupuesto para el conjunto de anuncios.
+
+La idea es entender la lógica de los horarios y días en que se muestran los anuncios. Por ejemplo, si se tiene un restaurante, no tendría mucho sentido mostrar anuncios a las 3 de la mañana.
+
+El administrador de anuncios dará cuenta del tamaño del público objetivo, en función de la segmentación que se haya definido.
+
+Con ello se puede editar la segmentación, para llegar a un público más específico o más amplio, dependiendo de los objetivos de la campaña.
+
+### Ubicaciones y Optimización de Entrega
+
+Se pueden seleccionar las ubicaciones donde se mostrarán los anuncios. Se recomienda seleccionar todas las ubicaciones y luego optimizar la entrega.
+
+Audience Network es una red de editores que muestran anuncios en sus sitios web y aplicaciones. Se puede seleccionar o deseleccionar esta opción.
+
+Ubicaciones se refieren a los emplazamientos digitales donde se mostrarán los anuncios. Pueden ser en Facebook, Instagram, Audience Network, Messenger, etc. También se segmenta por dispositivo Celular y Computadora. Asismismo, se puede seleccionar el emplazamiento específico.
+
+En primer lugar, se recomienda seleccionar todas las ubicaciones y luego optimizar la entrega. Luego, se puede ver qué ubicaciones están funcionando mejor y deseleccionar las que no.
+
+Se puede seleccionar adicionalmente el sistema operativo (android o iOS) y el tipo de conexión (Datos o WiFi).
+
+Se pueden excluir algunos tópicos o categorías de contenido en los que no se quiera que aparezcan los anuncios. Por seguridad de la marca, por ejemplo.
+
+Finalmente se puede optimizar la entrega para distintos objetivos: impresiones, alcance único diario, clic en el enlace, visitas al sitio web, etc.
+
+Podemos nombrar el conjunto incluyendo la segmentación y las ubicaciones. E.g. `Stgo M Intereses Varios - Todas las Ubicaciones`
 
 ## Creación de Anuncios
 
+### Tips para Crear Anuncios
+
+### ¿Cómo se arma un anuncio?
+
+### Creando anuncios con distintos formatos en Creative Hub
+
 ## Análisis y Optimización
 
+### Los Clásicos "Fails" en Campañas
+
 ## Herramientas Varias
+
+### Biblioteca Multimedia y Facebook Blueprint
+
+## Conclusiones del Curso
