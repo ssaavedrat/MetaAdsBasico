@@ -420,16 +420,146 @@ Podemos nombrar el conjunto incluyendo la segmentación y las ubicaciones. E.g. 
 
 ### Tips para Crear Anuncios
 
+* Poco texto en la pieza gráfica. Un máximo de 20% de texto en la imagen.
+* Ofrece beneficios concretos. Utiliza números. E.g.: "20% de descuento", "2x1", "Envío gratis".
+* Fotoproducto de alta calidad y que impacte.
+* Uso del sentido de urgencia (si aplica). E.g.: "Solo por hoy", "Últimas unidades", "Esta oferta termina en 24 horas".
+* Usar el formato carrusel para ofrecer variantes y/o beneficios de un producto o servicio.
+* Usar textos de llamada a la acción. E.g.: "Compra ahora", "Descarga", "Regístrate". En general, son en modo imperativo.
+
 ### ¿Cómo se arma un anuncio?
+
+En el administrador de anuncios, se selecciona la campaña y el conjunto de anuncios. Luego, se selecciona la opción de crear anuncio.
+
+Se selecciona el formato del anuncio. Puede ser un carrusel, una imagen, un video, una colección, etc.
+
+Se completa la información solicitada. Se selecciona la página de Facebook o Instagram que se quiere promocionar. Se selecciona la cuenta de Instagram o Facebook que se quiere promocionar.
+
+Se completa el texto del anuncio. Se recomienda utilizar un lenguaje claro y directo. Según la campaña se tendrá un botón de llamada a la acción.
 
 ### Creando anuncios con distintos formatos en Creative Hub
 
+Si se quiere probar distintos formatos de anuncios, se puede utilizar Creative Hub. Es una herramienta gratuita de Facebook que permite crear anuncios con distintos formatos y ver cómo se ven en distintos dispositivos, los cuales podremos usar en nuestras campañas.
+
 ## Análisis y Optimización
 
-### Los Clásicos "Fails" en Campañas
+### Los Clásicos "Fails" en Meta Ads y cómo evitarlos
+
+* No tener definida la estrategia. Incluyendo objetivo, buyer persona, propuesta de valor, etc.
+* Trabajar con audiencias demasiado amplias o demasiado específicas.
+* Tener un perfil inactivo en redes sociales.
+* Trabajar con piezas publicitarias propensas a ser rechazadas/bloqueadas. Anuncios engañosos, con contenido violento, etc.
+* Utilizar tarjetas de crédito que no tienen fondos o están vencidas.
+* No analizar los resultados de las campañas. No medir los resultados de las campañas.
+* No renovar/actualizar los anuncios lo ideal es un periodo de prueba de 1, 2 o 3 meses.
+* No utilizar el pixel de Facebook.
+* Campaña de interacción sin alguien que responda los mensajes.
+* No adaptar el texto para cada red social.
+* No analizar a la competencia.
+* Imagenes que no llamen la atención o donde el producto no es el protagonista.
+* El copy del anuncio no comunica un diferencial concreto, ni llamadas a la acción claras.
+* Landing pages caídas.
+
+### Tips para que tus anuncios no sean rechazados
+
+* Imitaciones. No se pueden anunciar productos de imitación o sin licenciamiento.
+* La página de destino no puede ser una página de error.
+* Incoherencia con lo ofrecido por el anuncio y la landing page.
+* Suplementos no seguros.
+* Trampas y prácticas engañosas. E.g.: Opiniones a cambio de productos gratuitos.
+* Contenido para adultos/desnudos.
+* Afirmaciones engañosas. E.g.: pierde 20kg en una semana.
+
+### ¿Qué medir cuando medimos?
+
+En el administrador de anuncios, se pueden ver los datos tabulados de cada campaña, conjunto de anuncios y anuncio.
+
+Se pueden filtrar los resultados por fecha personalizada o por rango de fechas predefinido. Asimismo, se puede comparar los resultados para distintas fechas.
+
+Se pueden ver:
+
+* Resultados: Clics, impresiones, costo por clic, etc.
+* Impresiones: Cuántas veces se ha mostrado el anuncio
+* Costo por resultado: Cuánto cuesta cada resultado.
+* Clasificación de Calidad.
+* Importe gastado.
+* Finalización.
+* Clicks en el enlace.
+* Clicks (todos): clics en cualquier parte del anuncio.
+* CPC (costo por clic).
+* CTR (click through rate): Porcentaje de clics respecto a las impresiones.
+* Alcance.
+* Frecuencia.
+
+Además, es posible agregar columnas adicionales y modificar el orden de las columnas.
+
+Tambien se puede hacer un deglose por tiempo, por entrega y por acción.
+
+### Análisis de Datos para la Toma de Decisiones
+
+La idea es ver los datos y tomar decisiones en función de ellos. Por ejemplo, si un anuncio no está funcionando, se puede pausar y probar con otro anuncio.
+
+Utiliza audiencias de remarketing para volver a impactar a usuarios que han interactuado con la marca, además de audiencias similares.
+
+Si hay días u horarios en donde el CTR es bajo o el CPC es muy alto se puede quitar esos días u horarios.
+
+Si la calidad del anuncio es baja:
+
+* Crear nuevas audiencias
+* Cambiar gráficas
+* Modificar textos
+* Comunicar otro diferencial de la marca
+
+Si hay cierto rango etáreo que no interactúa con el anuncio:
+
+* Modificar el rango de edades
+* Crear un anuncio diferente más atractivo (si el público es parte del objetivo)
+
+Si notas un CTR bajo:
+
+* Modificar llamados a la acción
+* Usar textos simples y directos
+* Ofrecer beneficios concretos
+* Mantener frecuencia baja del anuncio (para no disminuir el impacto generado)
+* Segmentar correctamente la audiencia
+* Prestar atención a los productos estacionales
+
+Si notas un CTR alto, pero pocas conversiones:
+
+* Chequear landing page. ¿Es clara? ¿Es fácil de navegar?
+* Verificar que el sitio funciona correctamente
+* Pixel de conversión correctamente instalado
+
+### Informes publicitarios
+
+¿Para qué sirve? Para tener un resumen de los resultados de las campañas. Facilita la toma de decisiones, disminuye los márgenes de error al interpretar datos, foco en información importante, registro histórico.
+
+En el administrador de anuncios, existe un margen donde dice "Informes". Se pueden crear informes personalizados, con los datos que se quieran ver, en distintos formatos.
 
 ## Herramientas Varias
 
-### Biblioteca Multimedia y Facebook Blueprint
+### Meta Blueprint
+
+Enlace: [Facebook Blueprint](https://www.facebook.com/business/learn)
+
+Es una plataforma de aprendizaje gratuita de Meta, que ofrece cursos sobre marketing en Facebook e Instagram.
+
+### Biblioteca Multimedia
+
+Biblioteca de contenidos donde se puede cargar todo el material gráfico por carpetas.
+
+Un caso de uso es que un diseñador suba las imágenes y el community manager las pueda utilizar.
 
 ## Conclusiones del Curso
+
+* Algoritmo Meta
+* Túneles de Venta
+* Cuenta de Business Manager
+* Creación Audiencias
+* Píxel
+* Creación cuenta publicitaria
+* Estructura de campañas
+* Clasicos "fails"
+* Análisis y optimización
+* Herramientas adicionales
+* Retos
